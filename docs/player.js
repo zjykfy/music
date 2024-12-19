@@ -428,3 +428,5 @@ document.addEventListener('keyup', function(event) {
   else if(event.key == "w"|| event.key === "W"){player.toggleWave();}
   else if(event.key == "v"|| event.key === "V"){player.toggleVolume();}
 });
+
+console.log("\n %c music %c https://github.com/zjykfy/music \n", "color: #fff; background-image: linear-gradient(90deg, rgb(47, 172, 178) 0%, rgb(45, 190, 96) 100%); padding:5px 1px;", "background-image: linear-gradient(90deg, rgb(45, 190, 96) 0%, rgb(255, 255, 255) 100%); padding:5px 0;");
