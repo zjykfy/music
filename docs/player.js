@@ -1,4 +1,4 @@
-let media="https://fastly.jsdelivr.net/gh/zjykfy/music@main/media/"
+let media="https://gcore.jsdelivr.net/gh/zjykfy/music@main/media/"
 
 // Cache references to DOM elements.
 let elms = ['track','artist', 'timer', 'duration','post', 'playBtn', 'pauseBtn', 'prevBtn', 'nextBtn', 'playlistBtn', 'postBtn', 'waveBtn', 'volumeBtn', 'progress', 'progressBar','waveCanvas', 'loading', 'playlist', 'list', 'volume', 'barEmpty', 'barFull', 'sliderBtn'];
